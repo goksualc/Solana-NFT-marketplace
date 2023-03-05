@@ -1,5 +1,5 @@
 
-# how to create a nft marketplace ?
+# how to create a NFT marketplace ?
 SET UP 
 -Ubuntu for windows
 -Solana 
