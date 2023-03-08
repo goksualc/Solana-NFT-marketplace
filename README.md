@@ -1,9 +1,9 @@
 
-# how to create a NFT marketplace ?
+# How to create a NFT marketplace on Solana?
 
 
 SET UP 
--Ubuntu for windows
+-Ubuntu for windows (for Windows users)
 -Solana 
 -Yarn or npm 
 -Wget 
@@ -49,11 +49,19 @@ solana-keygen --version
 
 _p.s_: run under `solana-bootcamp/VII-final/solana-nft` 
 
+#### UBUNTU USERS:
 ````bash
 wget https://github.com/metaplex-foundation/sugar/releases/download/sugar-cmv3-alpha.3/sugar-ubuntu-latest
 mv sugar-ubuntu-latest sugar
 chmod +x sugar
+./sugar --version
+```` 
 
+#### MACOS USERS 
+````bash
+wget https://github.com/metaplex-foundation/sugar/releases/download/sugar-cmv3-alpha.3/sugar-macos-m1-latest
+mv sugar-macos-m1-latest sugar
+chmod +x sugar
 ./sugar --version
 ````
 
