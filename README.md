@@ -2,6 +2,7 @@
 # How to create a NFT marketplace on Solana?
 
 
+
 SET UP 
 -Ubuntu for windows (for Windows users)
 -Solana 
